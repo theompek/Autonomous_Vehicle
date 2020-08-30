@@ -10,7 +10,5 @@ The software is written in Python program language and also the Carla simulator 
 1.**Control system. **
 1.**Evaluation system.**
 
-![](/images/image144.png)
-
-<img src="/images/image144.png" alt="drawing" width="200"/>
+<img src="/images/image144.png" alt="drawing" width="900"/>
 
