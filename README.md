@@ -10,6 +10,6 @@ The software is written in Python program language and also the Carla simulator 
 1. Control system. 
 1. Evaluation system.**
 
-![GitHub Logo](/images/image144.png 200x200)
+![GitHub Logo](/images/image144.png=200x200)
 
 
