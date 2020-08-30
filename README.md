@@ -11,9 +11,12 @@ The software is written in Python program language and also the Carla simulator 
 1. **Evaluation system.**
 <p align="center">
 <img src="/images/image144.png" alt="drawing" width="700"/>
-  
-<img src="/images/image73.png" alt="drawing" width="700"/>
-α) ego-only systems, β) Connected systems
-<img src="/images/image129.png" alt="drawing" width="700"/>
-α) Modular systems, β) End-to-end systems
 </p>
+<p align="center">
+<img src="/images/image73.png" alt="drawing" width="700"/>
+</p>
+α) ego-only systems, β) Connected systems
+<p align="center">
+<img src="/images/image129.png" alt="drawing" width="700"/>
+</p>
+α) Modular systems, β) End-to-end systems
