@@ -9,7 +9,8 @@ The software is written in Python program language and also the Carla simulator 
 1. **Maneuver planning system.**
 1. **Control system.**
 1. **Evaluation system.**
-
-<img align="center" src="/images/image144.png" alt="drawing" width="700"/>
-<img align="center" src="/images/image73.png" alt="drawing" width="700"/>
-<img align="center" src="/images/image129.png" alt="drawing" width="700"/>
+<p align="center">
+<img src="/images/image144.png" alt="drawing" width="700"/>
+<img src="/images/image73.png" alt="drawing" width="700"/>
+<img src="/images/image129.png" alt="drawing" width="700"/>
+</p>
