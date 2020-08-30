@@ -15,8 +15,8 @@ The software is written in Python program language and also the Carla simulator 
 <p align="center">
 <img src="/images/image73.png" alt="drawing" width="700"/>
 </p>
-<center>α) ego-only systems, β) Connected systems</center>
+<p align="center">α) ego-only systems, β) Connected systems</p>
 <p align="center">
 <img src="/images/image129.png" alt="drawing" width="700"/>
 </p>
-<center>α) Modular systems, β) End-to-end systems</center>
+<p align="center">α) Modular systems, β) End-to-end systems</p>
