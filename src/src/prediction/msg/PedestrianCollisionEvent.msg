@@ -1,0 +1,4 @@
+perception/Object object
+float64 angle
+float64 collision_time
+float64 collision_distance

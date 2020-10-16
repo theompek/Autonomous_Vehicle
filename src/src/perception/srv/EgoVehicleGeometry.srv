@@ -1,0 +1,6 @@
+#request
+int8 ignore_this
+---
+#response
+float32 L 
+float32 max_angle

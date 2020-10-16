@@ -1,0 +1,17 @@
+<launch>
+
+    <node pkg="route_planner" name="RoutePlanner_node" type="route_handler.py" output="screen" required="true"/>
+
+    <node pkg="perception" name="Perception_node" type="perception_carla_bridge.py" output="screen" required="true"/>
+
+    <node pkg="prediction" name="Prediction_node" type="motion_prediction.py" output="screen" required="true"/>
+
+    <node pkg="maneuver_generator" name="ManeuverGenerator_node" type="generate_maneuver.py" output="screen" required="true"/>
+
+    <node pkg="local_path_planner" name="Local_path_planner_node" type="local_planner.py" output="screen" required="true"/>
+
+    <node pkg="control" name="Control_node" type="controller.py" output="screen" required="true"/>
+
+    <node pkg="evaluation" name="Evaluation_node" type="evaluation_node.py" output="screen" required="true"/>
+
+</launch>

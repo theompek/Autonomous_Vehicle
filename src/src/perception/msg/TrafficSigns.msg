@@ -1,0 +1,10 @@
+bool traffic_light_exist
+float64 traffic_light_distance
+string traffic_light_state
+bool stop_sign_exist
+float64 stop_sign_distance
+bool speed_sign_exist
+float64 speed_sign_distance
+bool traffic_junction_exist
+float64 traffic_junction_distance
+float32 speed_limit

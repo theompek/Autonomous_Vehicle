@@ -1,0 +1,5 @@
+#request
+int8 ignore_this
+---
+#response
+perception/Waypoint[] route_path

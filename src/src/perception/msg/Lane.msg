@@ -1,0 +1,14 @@
+bool availability  
+string lane_type
+perception/Object front_front_vehicle
+perception/Object front_vehicle 
+perception/Object rear_vehicle 
+perception/Object rear_rear_vehicle
+int32 vehicle_num_front
+int32 vehicle_num_rear
+float64 lateral_offset_front_front
+float64 lateral_offset_front
+float64 lateral_offset_rear
+float64 lateral_offset_front_rear
+float64 lane_width
+bool opposite_direction

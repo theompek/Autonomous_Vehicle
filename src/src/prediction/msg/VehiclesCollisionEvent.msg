@@ -1,0 +1,4 @@
+perception/Object object
+perception/Waypoint collision_point
+float64 collision_time
+float64 prediction_probability
