@@ -65,11 +65,9 @@ Install:
 * [Carla Simulator](https://carla.org/)
 * [Python 3](https://www.python.org/download/releases/3.0/)
 * [ROS(melodic recommended)](http://wiki.ros.org/melodic/Installation/Ubuntu)
+* [pygame](https://www.pygame.org/news)
+* [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/)
 
-```
-pip install numpy
-
-```
 
 # Autonomous_Vehicle
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
