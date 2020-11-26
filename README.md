@@ -59,6 +59,11 @@ Aristotle University of Thessaloniki, Greece\
 September 2020
 
 # Dependecies
+If you want to use the autonomous driving system, a Linux distribution and Ubuntu 18.04 is recommended. \
+Install:\
+
+* [Carla Simulator](https://carla.org/)
+
 ```
 pip install numpy
 
@@ -67,7 +72,7 @@ pip install numpy
 # Autonomous_Vehicle
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
 
-<p align="center">
+<p align="center">https://carla.org/
 <img src="/images/image144.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
