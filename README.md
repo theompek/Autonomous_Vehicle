@@ -87,7 +87,7 @@ The software is written in Python program language and also the Carla simulator 
 
 # Presentation
 ## Prediction of pedestrian motion and waiting for the pedestrian to cross the road.
-[![Youtube video]](https://www.youtube.com/watch?v=Nu7SIumINpE)
+[[Youtube video]](https://www.youtube.com/watch?v=Nu7SIumINpE)
 
 [![Youtube video](/images/pedestrian.png)](https://www.youtube.com/watch?v=Nu7SIumINpE)
 
