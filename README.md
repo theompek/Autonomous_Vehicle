@@ -65,8 +65,8 @@ Install:
 * [Carla Simulator](https://carla.org/)
 * [Python 3](https://www.python.org/download/releases/3.0/)
 * [ROS(melodic recommended)](http://wiki.ros.org/melodic/Installation/Ubuntu)
-* [pygame](https://www.pygame.org/news)
-* [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/)
+* [Pygame](https://www.pygame.org/news)
+* [HMMlearn](https://hmmlearn.readthedocs.io/en/latest/)
 
 All this software is free and available in the links above. After installing this software you can download the latest code of the current repository.
 
