@@ -68,6 +68,11 @@ Install:
 * [pygame](https://www.pygame.org/news)
 * [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/)
 
+All this software is free and available in the links above. After installing this software you can download the latest code of the current repository.
+
+# Running the autonomous driving system
+
+After installing the dependencies and the code of the repository open a terminal, go to the source code folder and run the script **simple_script.sh** for a simple road trip or the script **repeat_script.sh** for the system evaluation through repeated tests.
 
 # Autonomous_Vehicle
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
