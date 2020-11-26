@@ -53,10 +53,11 @@ finally tested by adding noise to the perception system, where white noise was a
 to the position and speed data of vehicles and pedestrians received by the perception
 system.
 
-<p class="text-right">Mpekiaris Theofanis\
+Mpekiaris Theofanis\
 Electrical & Computer Engineering Department,\
 Aristotle University of Thessaloniki, Greece\
-September 2020</p>
+September 2020
+
 
 <p class="text-right"><!-- text goes here --></p>
 # Autonomous_Vehicle
