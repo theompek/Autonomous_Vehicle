@@ -1,3 +1,8 @@
+# Thesis Title
+Optimal route planning and on-road autonomous vehicle navigation with
+and without dynamic obstacles.
+
+
 # Autonomous_Vehicle
 In this project was developed a system for autonomous driving of a vehicle. The system developed is in the form of an ago-only and modular system.
 
