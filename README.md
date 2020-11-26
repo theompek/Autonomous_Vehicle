@@ -11,7 +11,7 @@ achieve autonomous driving. Vehicles and transportation play a key role in the d
 of trade and consequently in the development of societies as are known. Autonomous
 driving will dramatically increase citizens’ safety in the coming years, reduce transportation
 time and traffic congestion.\
-The technology of autonomous driving is quite complex and its development is a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The technology of autonomous driving is quite complex and its development is a
 challenge for the scientific community. The operation of autonomous vehicles requires
 a very good understanding of their environment, immediate response to changes in it
 and therefore, a reliable assessment of their position in space. The vehicle must have the
@@ -19,7 +19,7 @@ appropriate technology to enable it to navigate the road network and execute com
 driving scenarios. For this purpose, the vehicles are equipped with appropriate stateof-the-art sensors and also with the appropriate control and decision-making system.
 Implementing such systems is a quite complicated process, since they consist of individual
 systems that are specialized in solving specific problems of autonomous driving.\
-This dissertation focuses on the development of an autonomous driving system. The
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This dissertation focuses on the development of an autonomous driving system. The
 purpose of the system is to navigate the vehicle optimally and safely from a starting
 point to a destination point, within a city where there are vehicles and pedestrians, with
 respect for traffic rules. The system was developed in the form of an ego-only system
@@ -31,7 +31,7 @@ and consequently consists of the following individual systems a) perception, b) 
 selection, d) behavior prediction, e) construction of a basic path (or route), f) construction
 of local paths, h) vehicle control. Each of these systems is responsible for performing
 specific processes that are necessary for successful autonomous driving.\
-The behavior selection system uses multi-criteria decision analysis to evaluate and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The behavior selection system uses multi-criteria decision analysis to evaluate and
 select the appropriate behavior for the vehicle based on the environment in which it
 moves. The prediction system, using the ”prototype trajectories” method and a Hidden
 Markov Model (HMM), is used to predict the behavior of vehicles and pedestrians around
@@ -44,7 +44,7 @@ generation system was constructed. Finally, in order to the vehicle be controlle
 low-level, the control system was built. Using a suitable controller built for speed control
 and using the Pure Pursuit method for direction control, the overall navigation of the
 vehicle was achieved.\
-Ultimately, the system was tested using the Carla simulator for various traffic environments
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ultimately, the system was tested using the Carla simulator for various traffic environments
 and various motion scenarios. The vehicle’s performance was assessed using criteria that
 describe both the autonomy of the autonomous vehicle and the effectiveness of the
 autonomous vehicle in terms of its ability to complete the route path. The system was
