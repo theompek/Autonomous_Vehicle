@@ -18,7 +18,7 @@ and therefore, a reliable assessment of their position in space. The vehicle mus
 appropriate technology to enable it to navigate the road network and execute complex
 driving scenarios. For this purpose, the vehicles are equipped with appropriate stateof-the-art sensors and also with the appropriate control and decision-making system.
 Implementing such systems is a quite complicated process, since they consist of individual
-systems that are specialized in solving specific problems of autonomous driving.
+systems that are specialized in solving specific problems of autonomous driving.\
 This dissertation focuses on the development of an autonomous driving system. The
 purpose of the system is to navigate the vehicle optimally and safely from a starting
 point to a destination point, within a city where there are vehicles and pedestrians, with
@@ -30,7 +30,7 @@ of autonomous driving were performed. The system was developed in a modular form
 and consequently consists of the following individual systems a) perception, b) behavior
 selection, d) behavior prediction, e) construction of a basic path (or route), f) construction
 of local paths, h) vehicle control. Each of these systems is responsible for performing
-specific processes that are necessary for successful autonomous driving.
+specific processes that are necessary for successful autonomous driving.\
 The behavior selection system uses multi-criteria decision analysis to evaluate and
 select the appropriate behavior for the vehicle based on the environment in which it
 moves. The prediction system, using the ”prototype trajectories” method and a Hidden
@@ -43,7 +43,7 @@ Therefore, using the Frenet path construction methodology, the local alternative
 generation system was constructed. Finally, in order to the vehicle be controlled at a
 low-level, the control system was built. Using a suitable controller built for speed control
 and using the Pure Pursuit method for direction control, the overall navigation of the
-vehicle was achieved.
+vehicle was achieved.\
 Ultimately, the system was tested using the Carla simulator for various traffic environments
 and various motion scenarios. The vehicle’s performance was assessed using criteria that
 describe both the autonomy of the autonomous vehicle and the effectiveness of the
