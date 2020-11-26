@@ -77,7 +77,7 @@ After installing the dependencies and the code of the repository open a terminal
 # Autonomous vehicle architecture
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
 
-<p align="center">https://carla.org/
+<p align="center">
 <img src="/images/image144.png" alt="drawing" width="700"/>
 </p>
 <p align="center">
