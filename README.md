@@ -5,7 +5,6 @@ and without dynamic obstacles.
 
 # Abstract
 
-<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The technology of autonomous driving has been extensively studied in recent years
 and especially in the last decade. Both the scientific community and industry are making
 significant efforts to develop the necessary sophisticated technology and ultimately to
@@ -53,7 +52,7 @@ autonomous vehicle in terms of its ability to complete the route path. The syste
 finally tested by adding noise to the perception system, where white noise was added
 to the position and speed data of vehicles and pedestrians received by the perception
 system.
-</p>
+
 
 # Autonomous_Vehicle
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
