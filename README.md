@@ -54,7 +54,7 @@ system.
 
 
 # Autonomous_Vehicle
-In this project was developed a system for autonomous driving of a vehicle. The system developed is in the form of an ago-only and modular system.
+In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
 
 <p align="center">
 <img src="/images/image144.png" alt="drawing" width="700"/>
