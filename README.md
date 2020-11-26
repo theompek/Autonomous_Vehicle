@@ -58,6 +58,12 @@ Electrical & Computer Engineering Department,\
 Aristotle University of Thessaloniki, Greece\
 September 2020
 
+# Dependecies
+```
+pip install numpy
+
+```
+
 # Autonomous_Vehicle
 In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
 
