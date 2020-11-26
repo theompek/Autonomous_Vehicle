@@ -2,7 +2,7 @@
 Optimal route planning and on-road autonomous vehicle navigation with
 and without dynamic obstacles.
 
-### Abstract
+# Abstract
 
 The technology of autonomous driving has been extensively studied in recent years
 and especially in the last decade. Both the scientific community and industry are making
@@ -10,7 +10,7 @@ significant efforts to develop the necessary sophisticated technology and ultima
 achieve autonomous driving. Vehicles and transportation play a key role in the development
 of trade and consequently in the development of societies as are known. Autonomous
 driving will dramatically increase citizens’ safety in the coming years, reduce transportation
-time and traffic congestion.
+time and traffic congestion.\
 The technology of autonomous driving is quite complex and its development is a
 challenge for the scientific community. The operation of autonomous vehicles requires
 a very good understanding of their environment, immediate response to changes in it
@@ -41,9 +41,6 @@ autonomous vehicle. The vehicle during its navigation must be able to follow alt
 paths at any time, for this purpose the system of local path planning was constructed.
 Therefore, using the Frenet path construction methodology, the local alternative paths
 generation system was constructed. Finally, in order to the vehicle be controlled at a
-viii Χάραξη βέλτιστου μονοπατιού και πλοήγηση αυτόνομου
-οχήματος σε δυναμικό περιβάλλον με και χωρίς δυναμικά εμπόδια.
-Μπεκιάρης Θ.
 low-level, the control system was built. Using a suitable controller built for speed control
 and using the Pure Pursuit method for direction control, the overall navigation of the
 vehicle was achieved.
