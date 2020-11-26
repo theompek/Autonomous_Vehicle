@@ -91,4 +91,4 @@ The software is written in Python program language and also the Carla simulator 
 <img src="/images/vehicle_follow_wait_red_light.gif" alt="drawing" width="700"/>
 </p>
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=Nu7SIumINpE)](https://www.youtube.com/watch?v=Nu7SIumINpE)
+[![Youtube video](https://www.youtube.com/watch?v=Nu7SIumINpE)](https://www.youtube.com/watch?v=Nu7SIumINpE)
