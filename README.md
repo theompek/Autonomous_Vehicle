@@ -87,5 +87,6 @@ The software is written in Python program language and also the Carla simulator 
 # Presentation
 ## Prediction of pedestrian motion and waiting for the pedestrian to cross the road.
 <p align="center">
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 <img src="/images/vehicle_follow_wait_red_light.gif" alt="drawing" width="700"/>
 </p>
