@@ -60,9 +60,11 @@ September 2020
 
 # Dependecies
 If you want to use the autonomous driving system, a Linux distribution and Ubuntu 18.04 is recommended. \
-Install:\
+Install: 
 
 * [Carla Simulator](https://carla.org/)
+* [Python 3](https://www.python.org/download/releases/3.0/)
+* [ROS(melodic recommended)](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 ```
 pip install numpy
