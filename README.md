@@ -91,6 +91,11 @@ The software is written in Python program language and also the Carla simulator 
 
 [![Youtube video](/images/pedestrian.png)](https://www.youtube.com/watch?v=Nu7SIumINpE)
 
+## Navigation
+[[Youtube video]](https://www.youtube.com/watch?v=QFxgrxqnY6g)
+
+[![Youtube video](/images/navigation.png)](https://www.youtube.com/watch?v=QFxgrxqnY6g)
+
 ## Follow front vehicle and stop on traffic light
 <p align="center">
 <img src="/images/vehicle_follow_wait_red_light.gif" alt="drawing" width="700"/>
