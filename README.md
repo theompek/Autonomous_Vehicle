@@ -4,7 +4,7 @@ and without dynamic obstacles.
 
 # Abstract
 
-The technology of autonomous driving has been extensively studied in recent years
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The technology of autonomous driving has been extensively studied in recent years
 and especially in the last decade. Both the scientific community and industry are making
 significant efforts to develop the necessary sophisticated technology and ultimately to
 achieve autonomous driving. Vehicles and transportation play a key role in the development
