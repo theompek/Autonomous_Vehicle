@@ -1,11 +1,11 @@
 # Thesis Title
-<p align="center">
+
 Optimal route planning and on-road autonomous vehicle navigation with
 and without dynamic obstacles.
-</p>
-# Abstract
-<p align="center">
 
+# Abstract
+
+<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The technology of autonomous driving has been extensively studied in recent years
 and especially in the last decade. Both the scientific community and industry are making
 significant efforts to develop the necessary sophisticated technology and ultimately to
