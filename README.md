@@ -75,7 +75,7 @@ All this software is free and available in the links above. After installing thi
 After installing the dependencies and the code of the current repository open a terminal, go to the source code folder and run the script **simple_script.sh** for a simple road trip or the script **repeat_script.sh** for the system evaluation through repeated tests.
 
 # Autonomous vehicle architecture
-In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ago-only and modular system.
+In this thesis a system for autonomous driving of a vehicle was developed . The system developed is in the form of an ego-only and modular system.
 
 <p align="center">
 <img src="/images/image144.png" alt="drawing" width="700"/>
